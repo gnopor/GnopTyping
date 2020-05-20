@@ -1,0 +1,7 @@
+{
+  "name": "gnop-hello",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

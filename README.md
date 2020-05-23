@@ -6,6 +6,7 @@ This repository contains a typing project created using Ionic, Firebase and Reac
 
 ```json
 npm i
+ionic init
 ionic serve
 ```
 ## development workflow electron
